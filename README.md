@@ -1,8 +1,21 @@
-# ETF_Analyzer
-ETF Analyzer application
+# ETF_Analyzer Application
 
 ## Background
  Passive investing allows you to invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
+
+
+## Output
+
+- The application outputs are created using Voila python package
+
+
+#### Daily Returns
+<img src="./Images/voila.png"> <br>
+
+
+#### Cumulative Returns
+<img src="./Images/voila2.png"> <br>
+
 
 ---
 
