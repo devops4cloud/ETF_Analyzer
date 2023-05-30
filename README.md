@@ -9,10 +9,6 @@
 - The application outputs are created using Voila python package
 
 
-#### Daily Returns
-<img src="./Images/voila.png"> <br>
-
-
 #### Cumulative Returns
 <img src="./Images/voila2.png"> <br>
 
